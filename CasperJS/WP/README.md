@@ -3,7 +3,7 @@ The script configures a WordPress site using the given parameters in the `deploy
 If the parameters is given and the [WP-Migrate-DB-Pro](https://deliciousbrains.com/wp-migrate-db-pro/) plugin is available in the WordPress installation, it also configures the database using the plugin.
 
 ##Requirements
--  [CasperJS](http://capserjs.org) 
+-  [CasperJS](http://casperjs.org) 
 -  [WP-Migrate-DB-Pro](https://deliciousbrains.com/wp-migrate-db-pro/) for DB migration to work
 
 ##Installation
