@@ -6,5 +6,5 @@ In the ‘CasperJS’ folder you will find CasperJS deployment scripts.
 These scripts requires  [CasperJS](http://casperjs.org) to be installed on the machine doing the deployment. 
 
 ###List of CasperJS deployment scripts
-- [WP Deploy] - WordPress deployment script
+- WP Deploy - WordPress deployment script
 
