@@ -1,6 +1,6 @@
 #CasperJS WP Deploy Script
 The script configures a WordPress site using the given parameters in the `deployConfig.js` file, by running the normal WP setup guide.
-If the parameters is given and the [WP-Migrate-DB-Pro](https://deliciousbrains.com/wp-migrate-db-pro/) plugin is available in the WordPress installation, it also configures the database using the plugin.
+If the parameters are present and the  [WP-Migrate-DB-Pro](https://deliciousbrains.com/wp-migrate-db-pro/)  plugin is available in the WordPress installation, it also configures the database using the plugin.
 
 ##Requirements
 -  [CasperJS](http://casperjs.org) 
